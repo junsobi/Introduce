@@ -10,7 +10,8 @@
 html {height: 100%;
       width: 100%;}
 body {-webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: auto;}
+  -moz-osx-font-smoothing: auto;
+margin:0;}
 .main{display: flex;
      flex direction: column;}
 .bg1{position: absolute;
